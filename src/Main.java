@@ -7,5 +7,7 @@ public class Main {
         if (n == 1) return 1;
         return n * n + sumOfSquares(n - 1);
     }
+    public static int sumOfElements(int[] array, int n){
 
+    }
 }
